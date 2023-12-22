@@ -161,6 +161,7 @@ cython_debug/
 
 MNIST/ 
 CIFAR-10/
+model/
 
 !MNIST/README.md
 !CIFAR-10/README.md
