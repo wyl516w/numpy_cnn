@@ -17,5 +17,5 @@ train_and_test(
     batch_size=16,
     epoch_num=50,
     half_learning_rate_time=5,
-    pth="model/cnn_cifar10.npy"
+    pth="cnn_cifar10.npy"
 )
