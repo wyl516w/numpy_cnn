@@ -10,3 +10,13 @@
 如果你单纯想要基于此实现，可以参考`sad_main.py`
 
 如果你有需要做一些对比，可以参考所有的`*.ipynb`
+
+This is a coursework for Machine Learning, using numpy package.
+
+If you want to add network layer, activate function or etc., edit `sad_layer.py`
+
+If you want to write more network structure, edit `sad_network.py`
+
+If you want to write more function, edit `sad_construct.py`
+
+If you want to use it as a part, refer to `sad_main.py`
