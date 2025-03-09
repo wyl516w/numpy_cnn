@@ -25,7 +25,7 @@ If you want to write more function, edit `sad_construct.py`
 If you want to use it as a part, refer to `sad_main.py`
 
 
-如何运行此文件：
+# 如何运行此文件：
 ```
 pip install numpy
 python sad_main.py
