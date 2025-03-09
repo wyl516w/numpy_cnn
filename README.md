@@ -1,4 +1,7 @@
 # numpy_cnnnetwork
+
+人工神经网络作业，手动实现梯度反向传播，依赖库仅numpy
+
 图像分类 神经网络numpy原理实现 课程作业
 
 如果你需要增加网络层，激活函数等，请修改`sad_layer.py`。
@@ -20,3 +23,10 @@ If you want to write more network structure, edit `sad_network.py`
 If you want to write more function, edit `sad_construct.py`
 
 If you want to use it as a part, refer to `sad_main.py`
+
+
+如何运行此文件：
+```
+pip install numpy
+python sad_main.py
+```
